@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <Session ItemID="1" DateTime="">
+    <SessionItem ItemID="999">
+      <File FileName="C:\Users\ashim\Desktop\One1UPSSLVPN.pdf" TypeID="4" TypeName="XXXXX" />
+ 
+    </SessionItem>
+    <SessionItem ItemID="543863">
+      <File FileName="C:\Users\ashim\Desktop\b\הוראת עבודה להתחברות דרך מערכת PIM.PDF" TypeID="4" TypeName="XXXXX" />
+    </SessionItem>
+    <SessionItem ItemID="477491">
+      <File FileName="C:\Users\ashim\Desktop\b\הוראת עבודה להתחברות דרך מערכת PIM.PDF" TypeID="4" TypeName="XXXXX" />
+      <File FileName="yyy.pdf" TypeID="10" TypeName="gfsdgf"  />
+    </SessionItem>
+  </Session>
+  <Session ItemID="ABCD" DateTime="">
+    <SessionItem ItemID="XXX">
+      <File FileName="XXX.docx" TypeID="4" TypeName="XXXXX" />
+
+    </SessionItem>
+  </Session>
+</Root>
